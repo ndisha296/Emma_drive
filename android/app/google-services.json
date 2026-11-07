@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662686561882",
+    "project_id": "emma-a3cbd",
+    "storage_bucket": "emma-a3cbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662686561882:android:62ac468ed4482f41828a63",
+        "android_client_info": {
+          "package_name": "com.emma.drive.emma_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNNfmYhN4HHzCcijplrfUq1oTOaR0qZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
